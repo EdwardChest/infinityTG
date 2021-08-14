@@ -8,7 +8,7 @@ Install the dependencies.
 
 ```sh
 sudo apt install python3 python3-pip
-python3 -m pip install python-telegram-bot-api
+python3 -m pip install telethon
 ```
 ## First steps
 Go to [Telegram Apps](https://my.telegram.org/) and create app.
