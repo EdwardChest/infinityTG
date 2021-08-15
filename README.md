@@ -1,6 +1,6 @@
 # Infinity Telegram
 ___
-Very simple script to run infinity inline for your Telegram account using Telegram API
+Very simple script to run infinity online for your Telegram account using Telegram API
 
 ## Installation
 
